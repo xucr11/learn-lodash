@@ -1,2 +1,2 @@
 # learn-lodash
-阅读 lodash 源码
+阅读学习 lodash 源码
